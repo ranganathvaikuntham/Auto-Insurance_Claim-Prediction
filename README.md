@@ -5,7 +5,7 @@ Please refer to the file in this repository titled - 'Descartes_Underwriting_Ass
 Broadly we first run the data-processing in 'Preliminary-processing.ipynb' then we explore the data through 'EDA.ipynb' and finally we model our Machine learning algorithms in 'Machine_Learning_Modeling.ipynb'.
 
 ## Package Installations
-Package installation commands on top of a default anaconda environment are present in the first preprocessing notebook. They have alos been cited below for convenience.
+Package installation commands on top of a default anaconda environment are present in the first preprocessing notebook. They have also been cited below for convenience.
 
 Kindly run the following commands on your Jupyter Notebook cell:
 
