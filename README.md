@@ -1,5 +1,4 @@
 # Auto-Insurance_Claim-Prediction
-Descartes Underwriting take home assessment
 
 ## Explanatory Report 
 Please refer to the file in this repository titled - 'Descartes_Underwriting_Assessment_Report.pdf' for an explanation on the structure of this Data Science project.
