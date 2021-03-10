@@ -4,7 +4,7 @@
 Please refer to the file in this repository titled - <a href="https://github.com/ranganathvaikuntham/Auto-Insurance_Claim-Prediction/blob/main/Descartes_Underwriting_Assessment_Report.pdf">'Descartes_Underwriting_Assessment_Report.pdf'</a>
  for an explanation , structure of this Data Science project.
 
-Broadly we first run the data-processing in 'Preliminary-processing.ipynb' then we explore the data through 'EDA.ipynb' and finally we model our Machine learning algorithms in 'Machine_Learning_Modeling.ipynb'.
+Broadly, we first run the data-processing in 'Preliminary-processing.ipynb' then we explore the data through 'EDA.ipynb' and finally we model our Machine learning algorithms in 'Machine_Learning_Modeling.ipynb'.
 
 ## Package Installations
 Package installation commands on top of a default anaconda environment are present in the first preprocessing notebook. They have also been cited below for convenience.
