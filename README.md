@@ -9,11 +9,17 @@ Package installation commands on top of a default anaconda environment are prese
 
 Kindly run the following commands on your Jupyter Notebook cell:
 
-!pip install numpy
-!pip install pandas
-!pip install seaborn
-!pip install matplotlib
+!pip install numpy 
+
+!pip install pandas 
+
+!pip install seaborn 
+
+!pip install matplotlib 
+
 !pip install -U scikit-learn
+
 !pip install xgboost
+
 !pip install heatmapz
 
